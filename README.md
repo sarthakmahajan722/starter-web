@@ -9,3 +9,11 @@ Sample website with plenty of files for demos
 ## introduction
 
 this is for my testing
+
+## testing for diff tool
+
+this is for diff tool testing
+
+## new line added
+
+this is for wd testing
