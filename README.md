@@ -17,3 +17,5 @@ this is for diff tool testing
 ## new line added
 
 this is for wd testing
+
+## copyright
