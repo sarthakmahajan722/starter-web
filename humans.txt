@@ -3,7 +3,7 @@
 
 # TEAM
 
-    this change is done by me ( rebase-branch )
+    this change is done by me ( example of stash branch )
 
 # THANKS
 
