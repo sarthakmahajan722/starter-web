@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    this change is done by me ( rebase-branch )
 
 # THANKS
 
