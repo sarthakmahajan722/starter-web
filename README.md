@@ -18,4 +18,4 @@ this is for diff tool testing
 
 this is for wd testing
 
-## copyright
+## copyright by master
